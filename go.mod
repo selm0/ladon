@@ -1,4 +1,4 @@
-module github.com/ory/ladon
+module github.com/selm0/ladon
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
